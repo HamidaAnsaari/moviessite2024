@@ -1,0 +1,20 @@
+<!-- movie 1 -->
+<div
+  class="movie-card flex flex-col space-y-4 w-[30%] bg-gray-300 p-2 rounded-md"
+>
+  <!-- link and img -->
+  <a href="https://www.youtube.com/watch?v=jio55fs_KOI">
+    <img
+      src="./img-film/image1.jpg"
+      alt=""
+      title="sputink film"
+      class="rounded-md"
+    />
+  </a>
+  <!-- film name -->
+  <p class="text-center font-bold text-red-600">sputink 2022</p>
+  <!-- description -->
+  <p class="text-center text-sm">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, animi!
+  </p>
+</div>
